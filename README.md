@@ -129,3 +129,4 @@ TBD
 - 발표 시간은 주어진 시간 내에 완료해야합니다.
 - 시연은 제품 혹은 동영상 등으로 시연 가능합니다.
 - 발표 혹은 시연 시 개인 물품 사용이 필요하면 말씀 해 주세요.
+- [해커톤 PPT 서식 예제](https://raw.githubusercontent.com/ampm-jbnu/2022_ampm_4th_hackathon/master/ppt/2022ampm_ppt_example.pptx)
