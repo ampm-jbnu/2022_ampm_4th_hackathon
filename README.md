@@ -1,7 +1,7 @@
 # 2022 AM:PM 4th Hackathon Official Document
 ![poster](https://raw.githubusercontent.com/ampm-jbnu/2022_ampm_4th_hackathon/master/img/poster.png)
 
-## [신청하려면 클릭!](https://c11.kr/2022ampmhack)
+## [신청하려면 클릭! - 신청 종료](https://c11.kr/2022ampmhack)
 
 # 목차
 
@@ -48,13 +48,19 @@ __11.18-19(금-토) 진행__
 
 ### 4. 쓰레기 분리수거
 
-TBD
+2층 여자 화장실 옆 (음식쓰래기는 구름다리 넘어 수거)
 
 ### 5. 무선 네트워크
 
-wi-fi ssid : tbd
+wi-fi ssid :
 
-wi-fi passworkd : tbd
+    3층 : software312
+    4층 : software414
+
+wi-fi passworkd : 
+
+    3층 : software312
+    4층 : software414
 
 ### 6. 기자재 대여
 
@@ -66,13 +72,13 @@ wi-fi passworkd : tbd
 
 ### 7. 식사
 
-__점심 : TBD__
+__저녁 : 한솥도시락__
 
-__저녁 및 야식 : TBD__
+__아침 : 서브웨이__
 
 ### 8. 간식
 
-특정 시간마다 배부
+특정 시간마다 배부 및 상시배치
 
 ### 9. 야식
 
@@ -80,7 +86,9 @@ TBD
 
 ### 10. 멘토링 참여 인원
 
-- TBD
+- 운영진
+- 소프트웨어공학과 16학번 문봉오
+- 소프트웨어공학과 16학번 김태일
 
 ### 11. 비상연락망
 
